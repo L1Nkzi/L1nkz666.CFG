@@ -19,10 +19,9 @@
 
 Este repositorio contiene una configuración personalizada para **Counter-Strike 2**, desarrollada por *L1nkz*, centrada en:
 
-- Movimiento suave para KZ, surf y bhop
+- Movimiento 
 - Experiencia limpia en partidas competitivas
 - Binds funcionales y prácticos
-- Comandos de red calibrados para servidores 128 tick
 - Viewmodel estético y funcional
 
 ---
