@@ -1,0 +1,50 @@
+═════════════════════════════════════════════════════
+  CS2 - AUTOEXEC Y BINDS DE MOVIMIENTO by L1nkz 
+═════════════════════════════════════════════════════
+
+ Descripción:
+Este archivo contiene una configuración personalizada para
+Counter-Strike 2: autoexec.cfg + binds para mejorar movimiento.
+
+¡Video explicativo en YouTube!
+Voy a subir un video donde muestro paso a paso cómo instalar,
+usar y sacarle el máximo provecho a esta config.
+
+
+═════════════════════════════════════════════════════
+ Contenido:
+
+ autoexec.cfg
+- Configs visuales, de red y mejoras para el juego.
+
+ Binds de Movimiento
+- Bunny Hop automático
+- Jumpthrow
+- Strafe peek
+- Toggles útiles
+
+═════════════════════════════════════════════════════
+ ¿Cómo usar?
+
+1. Copia el archivo "autoexec.cfg" en la carpeta:
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+
+2️. Inicia CS2 con el siguiente parámetro en Steam:
++exec autoexec.cfg
+
+3. Bind de Movimiento Ejecutar en Consola.
+exec movement/setup
+
+═════════════════════════════════════════════════════
+Features:
+
+✔ Bunny Hop automático
+✔ Jumpthrow bind
+✔ Peek + strafe binds
+✔ Optimización visual y de red
+✔ Configuración amigable para cualquier jugador
+
+═════════════════════════════════════════════════════
+📌 Autor: L1nkz
+GitHub: https://github.com/L1nkzp
+═════════════════════════════════════════════════════
