@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
----
+Video Youtube : https://www.youtube.com/watch?v=ijYH9Mrg9bE](url)
+
 
 ## 🧠 Visión del proyecto
 
