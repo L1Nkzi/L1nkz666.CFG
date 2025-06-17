@@ -30,12 +30,9 @@ Este repositorio contiene una configuración personalizada para **Counter-Strike
 ## 📂 Estructura del Proyecto
 
 ```bash
-CS2-Config/
-├── cfg/
-│   └── autoexec.cfg     # Config principal del juego
-├── README.md            # Este archivo
-└── LICENSE              # MIT License
-
+CS2-Config
+├── cfg
+│ autoexec.cfg     # Config principal del juego
 
 💻 Detalles Técnicos
 
@@ -48,7 +45,6 @@ Módulo	Descripción
 🖱️ Binds	Jumpthrow, toggle net_graph, quickswitch, radar toggle, +clear decals
 🧪 Debug	net_graph, developer 1, limpieza de consola para pruebas
 
-
 ⚙️ Instalación
 🔧 Paso 1: Copia de archivos
 
@@ -58,32 +54,25 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 
 Coloca el archivo autoexec.cfg ahí.
 
-
 🧨 Paso 2: Parámetros de lanzamiento en Steam
 
+-fullscreen -high -nojoy -softparticlesdefaultoff -mainthreadpriority 2 +fps_max 0 +cl_forcepreload 1 +mat_disable_fancy_blending 1 +r_dynamic 0 +r_drawparticles 0 +violence_hblood 0 -console +mat_queue_mode 2
+
 Agrega esto en las Opciones de lanzamiento de CS2:
-+exec autoexec.cfg
 
 (✅ Esto asegura que se cargue en cada partida)
 
-
 🔎 Paso 3: Verificación dentro del juego
 
-Abre CS2, abre la consola y escribe:
-exec autoexec
+Abre CS2 .
 
 Deberías ver los mensajes de confirmación en consola si todo está bien cargado.
  ```
-
-
 ✨ Autor
 
     Proyecto creado con detalle por L1nkz
 
     🎯 GitHub: @L1nkz
-
-    🖤 Discord: L1nkz#XXXX
-
 
 📄 Licencia
 
